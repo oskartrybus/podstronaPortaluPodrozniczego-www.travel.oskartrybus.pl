@@ -1,0 +1,38 @@
+body {
+	background-color: #2F3336;
+	color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+
+h1 {
+	font-size: 36px;
+	font-weight: 400;
+	margin: 20px;
+}
+
+.trips {
+	text-align: center;
+}
+
+.trips img {
+	width: 100%;
+	height: auto;
+	border: 2px solid gray;
+}
+
+.trips figcaption {
+	margin-top: 8px;
+}
+
+.navbar {
+	min-height: 58px;
+}
+
+.left-bar {
+	background: #d47517;
+}
+
+.header-bg {
+	background: #4b4d4f;
+}
